@@ -1,14 +1,14 @@
 {
-      "name": "Son Goku X",
+      "name": "VegetaRobot",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Son Goku X"
+         "VegetaRobot"
       ],   
-   "repository": "https://github.com/STBxD/GokuXForceRobot",
+   "repository": "https://github.com/nishikataxpg/VegetaRobot",
    "addons": [
       {
          "options": {
