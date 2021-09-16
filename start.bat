@@ -1,4 +1,4 @@
 @echo off
-TITLE Son Goku
+TITLE Vegeta
 :: Enables virtual env mode and then starts XForceSTB
-env\scripts\activate.bat && py -m Goku
+env\scripts\activate.bat && py -m Vegeta
