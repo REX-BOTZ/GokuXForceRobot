@@ -1,2 +1,2 @@
-worker: python3 -m XForceSTB
+worker: python3 -m VegetaRobot
 ps:scale worker=1
