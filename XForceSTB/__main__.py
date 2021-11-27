@@ -77,7 +77,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- Hey There, I'm [Goku](https://telegra.ph/file/0e7ab643f949630fbb63c.jpg)
+ Hey There, I'm [Goku](https://telegra.ph/file/7534889660229130be425.jpg)
 I Am An Anime Themed Group Management Bot.
 Built By Weebs For Weebs, I Specialize In Managing Anime Eccentric Communities.
 """
@@ -91,16 +91,16 @@ buttons = [
    ],
     [      
        InlineKeyboardButton(
-            text="🌐 X-Force", url="https://t.me/XForceSquad"),        
+            text="🌐 X-Force", url="https://t.me/REX_BOTZ"),        
           InlineKeyboardButton(
-            text="📋 Updates", url="https://t.me/XForceBots"),
+            text="📋 Updates", url="https://t.me/Rex_Bots_Support"),
     
    ],
     [      
           InlineKeyboardButton(
-            text="🗣️ Support", url="https://t.me/XForceSupport"),
+            text="🗣️ Support", url="https://t.me/REx_Bots_Support"),
           InlineKeyboardButton(
-            text="📁 Source", url="https://github.com/STBxD/GokuXForceRobot",
+            text="🦸‍♀️ Dev", url="https://t.me/Benwolf24",
     
          ),
     ],
@@ -113,7 +113,7 @@ Helpful commands:
 - /start: Starts me! You've probably already used this.
 - /help: Sends this message; I'll tell you more about myself!
 - /donate: Gives you info on how to support me and my creator.
-If you want to report bugs or have any questions on how to use me then feel free to reach out: @XForceSupport.
+If you want to report bugs or have any questions on how to use me then feel free to reach out: @Rex_Bots_Support.
 All commands can be used with the following: / ! ?
 List of all the Modules:
 """.format(
